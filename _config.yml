@@ -193,7 +193,9 @@ kramdown:
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
+# Font Awesome
+font-awesome:
+  assets: true
 
 # Outputting
 permalink: /:categories/:title/
