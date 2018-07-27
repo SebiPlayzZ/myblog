@@ -19,8 +19,8 @@ theme: minimal-mistakes-jekyll
 locale                   : "en-US"
 title                    : "Test"
 title_separator          : "-"
-name                     : "SebiPlayzZ"
-description              : "Full sighax CFW Guide"
+name                     : "Sebastian Breit"
+description              : "A Test!"
 url                      : #"https://ds.hacks.guide" the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # "SebiPlayzZ/myblog" GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -99,10 +99,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "SebiPlayzZ"
+  name             : "Sebastian Breit"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Nullsec"
+  location         : "Europa"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
