@@ -16,7 +16,7 @@ excerpt: "Hello,<br>This is a TEST!<br/>"
 
 ___
 
-#### and expound the actual teachings  of the great explorer of the truth,
+#### and expound the actual teachings of the great explorer of the truth,
 {: .notice--info}
 the master-builder of human happiness. No one [rejects, dislikes, or avoids pleasure](test) itself,
 - *because it*
