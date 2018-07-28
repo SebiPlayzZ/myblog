@@ -4,8 +4,8 @@ main:
     title: Home
     url: /
   -
-    title: ROM Hacks
-    url: rom-hacks
+    title: Test
+    url: home
   -
     title: FAQ
     url: faq
@@ -17,7 +17,7 @@ main:
     url: credits
 bottom:
   -
-    title: If you appreciate this guide, I accept <a href="donations">Donations</a>.
+    title: Test.
 footer:
   -
     title: Source
